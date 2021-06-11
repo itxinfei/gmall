@@ -1,4 +1,7 @@
-## 谷粒商城
+# 谷粒商城- 尚品汇 
+
+
+
 
 <p align="center">
   <a href="https://gitee.com/itxinfei">
@@ -10,7 +13,6 @@
   <a href="http://mail.qq.com/cgi-bin/qm_share?t=qm_mailme&email=f0hLSE9OTkdHTT8ODlEcEBI">
     <img alt="code style" src="https://img.shields.io/badge/mail-747011882@qq.com-red">
   </a> 
-
   <a href=" ">
     <img alt="code style" src="https://img.shields.io/badge/JDK-1.8%2B-brightgreen">
   </a> 
@@ -22,33 +24,38 @@
   </a> 
 </p>
 
-**1.CorsWebFilter解决跨域**
+#  一、项目介绍
 
-**2.nacos注册中心和配置中心的使用**
+谷粒商城项目是尚硅谷研究院推出完整大型分布式架构电商平台，技术全面、业务深入，全网无出其右。技术涵盖：微服务架构+分布式+全栈+集群+部署+自动化运维+可视化CICD，对标阿里P6/P7，冲击40-60w。
 
-**3.分布式事务框架seata**
+项目由业务集群系统+后台管理系统构成，打通了分布式开发及全栈开发技能，包含前后分离全栈开发、Restful接口、数据校验、网关、注册发现、配置中心、熔断、限流、降级、链路追踪、性能监控、压力测试、系统预警、集群部署、持续集成、持续部署… 
 
-**4.es搜索聚合查询**
+# 二、微服务架构
 
-**5.根据一级分类id查询它的二级、三级子分类queryCategoryVO()**
+![](Doc/谷粒商城-微服务架构图.jpg)
 
-**6.redisson分布式锁框架**
+![](Doc/谷粒商城-微服务架构图2.png)
 
-**7.自定义aop注解详细使用IndexCacheAop**
+![](Doc/前端技术栈类比.jpg)
 
-**8.异步编排**
+![](Doc/项目微服务.jpg)
 
-**9.gateway过滤器和工厂**
+![](Doc/微服务-注册中心、配置中心、网关.jpg)
 
-**10.MQ的基础使用**
+![](Doc/正向代理与反向代理.jpg)
 
-**11.redis-HashMap的使用和转换queryCheckedCartsByUserId**
+![](Doc/文件存储.jpg)
 
-**12.MQ消费者的msg类型转换**
+![](Doc/采购简要流程.jpg)
 
-**13.定时关单、延时队列、死信队列的使用RabbitMQConfig、OmsListener**
+![](Doc/Nginx动静分离.jpg)
 
-**14.支付宝支付**
+![](Doc/SPU-SKU-属性.jpg)
+
+![](Doc/属性分组-效果.jpg)
+
+# 三、项目部署
+
 
 
 
