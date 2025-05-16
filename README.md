@@ -162,7 +162,7 @@ mvn clean install && java -jar gmall-gateway.jar
 ---
 
 ## 📱 关注微信公众号  
-![微信公众号二维码](我的微信公众号.jpg)  
+![微信公众号二维码](/docs/我的微信公众号.jpg)  
 **获取最新更新动态与技术支持文档**
 
 ---
