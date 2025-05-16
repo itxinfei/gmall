@@ -8,10 +8,25 @@
 
 <p align="center">
   <img alt="JDK" src="https://img.shields.io/badge/JDK-1.8%2B-brightgreen">
-  <img alt="Maven" src="https://img.shields.io/badge/maven-3.3%2B-yellowgreen">
-  <img alt="License" src="https://img.shields.io/badge/license-Apache-green">
-  <img alt="Build" src="https://img.shields.io/badge/build-passing-brightgreen">
-<!-- 前端 --> <img alt="前端" src="https://img.shields.io/badge/前端-Vue3%20+%20ElementUI-blueviolet"> <!-- 后端框架 --> <img alt="后端框架" src="https://img.shields.io/badge/后端-SpringBoot%20+%20MyBatisPlus-green"> <!-- 微服务 --> <img alt="微服务" src="https://img.shields.io/badge/微服务-SpringCloud%20+%20Nacos-orange"> <!-- 数据库 --> <img alt="数据库" src="https://img.shields.io/badge/数据库-MySQL%20集群%20+%20Elasticsearch-red"> <!-- 中间件 --> <img alt="中间件" src="https://img.shields.io/badge/中间件-Redis%20集群%20+%20RabbitMQ-yellowgreen"> <!-- 分库分表 --> <img alt="分库分表" src="https://img.shields.io/badge/分库分表-MyCat%20+%20Canal-blue"> <!-- 监控 --> <img alt="监控" src="https://img.shields.io/badge/监控-Prometheus%20+%20SkyWalking-purple">
+  <img alt="Maven" src="https://img.shields.io/badge/Maven-3.x%2B-yellowgreen">
+  <img alt="Spring Boot" src="https://img.shields.io/badge/Spring%20Boot-2.1.6.RELEASE-blueviolet">
+  <img alt="Spring Cloud" src="https://img.shields.io/badge/Spring%20Cloud-Greenwich.SR2-orange">
+
+  <img alt="MyBatis Plus" src="https://img.shields.io/badge/MyBatis%20Plus-3.2.0-green">
+  <img alt="MySQL" src="https://img.shields.io/badge/MySQL-5.1.46-red">
+  <img alt="Nacos" src="https://img.shields.io/badge/Nacos-0.2.2.RELEASE-purple">
+  <img alt="Seata" src="https://img.shields.io/badge/Seata-0.9.0-yellowgreen">
+
+  <img alt="Swagger" src="https://img.shields.io/badge/Swagger-2.7.0-blue">
+  <img alt="Lombok" src="https://img.shields.io/badge/Lombok-1.18.4-yellow">
+  <img alt="Druid" src="https://img.shields.io/badge/Druid-1.1.13-lightgrey">
+  <img alt="Shiro" src="https://img.shields.io/badge/Shiro-1.4.0-red">
+
+  <img alt="Hutool" src="https://img.shields.io/badge/Hutool-5.0.7-teal">
+  <img alt="Aliyun OSS" src="https://img.shields.io/badge/Aliyun%20OSS-3.1.0-orange">
+  <img alt="Kaptcha" src="https://img.shields.io/badge/Kaptcha-0.0.9-purple">
+  <img alt="Joda-Time" src="https://img.shields.io/badge/Joda-Time-2.9.9-brown">
+</p>
 </p>
 
 
