@@ -2,21 +2,17 @@
 <div align="center">
 
 <h1 style="font-size: 36px;">🛒 Gmall 电商平台</h1>
-**一站式电商解决方案 | 支持商品管理、订单处理、支付集成、用户系统**  
 
-🚀 项目地址：[https://gitee.com/itxinfei/gmall](https://gitee.com/itxinfei/gmall)  
-👥 QQ交流群：[661543188](https://qm.qq.com/cgi-bin/qm/qr?k=9yLlyD1dRBL97xmBKw43zRt0-6xg8ohb&jump_from=webapi)  
-📧 邮箱支持：[747011882@qq.com](http://mail.qq.com/cgi-bin/qm_share?t=qm_mailme&email=f0hLSE9OTkdHTT8ODlEcEBI)  
+**一站式电商解决方案 | 支持商品管理、订单处理、支付集成、用户系统**  
+</div>
 
 <p align="center">
   <img alt="JDK" src="https://img.shields.io/badge/JDK-1.8%2B-brightgreen">
   <img alt="Maven" src="https://img.shields.io/badge/maven-3.3%2B-yellowgreen">
   <img alt="License" src="https://img.shields.io/badge/license-Apache-green">
   <img alt="Build" src="https://img.shields.io/badge/build-passing-brightgreen">
+<!-- 前端 --> <img alt="前端" src="https://img.shields.io/badge/前端-Vue3%20+%20ElementUI-blueviolet"> <!-- 后端框架 --> <img alt="后端框架" src="https://img.shields.io/badge/后端-SpringBoot%20+%20MyBatisPlus-green"> <!-- 微服务 --> <img alt="微服务" src="https://img.shields.io/badge/微服务-SpringCloud%20+%20Nacos-orange"> <!-- 数据库 --> <img alt="数据库" src="https://img.shields.io/badge/数据库-MySQL%20集群%20+%20Elasticsearch-red"> <!-- 中间件 --> <img alt="中间件" src="https://img.shields.io/badge/中间件-Redis%20集群%20+%20RabbitMQ-yellowgreen"> <!-- 分库分表 --> <img alt="分库分表" src="https://img.shields.io/badge/分库分表-MyCat%20+%20Canal-blue"> <!-- 监控 --> <img alt="监控" src="https://img.shields.io/badge/监控-Prometheus%20+%20SkyWalking-purple">
 </p>
-
-</div>
-
 
 
 ## 📌 项目简介  
@@ -164,11 +160,6 @@ mvn clean install && java -jar gmall-gateway.jar
    - 基于Flink实时计算用户行为  
    - ClickHouse支撑大屏可视化  
 
----
-
-## 📱 关注微信公众号  
-![微信公众号二维码](docs/心飞为你飞.jpg)  
-**获取最新更新动态与技术支持文档**
 
 ---
 
@@ -188,4 +179,14 @@ mvn clean install && java -jar gmall-gateway.jar
    - 关键指标监控：`/actuator/prometheus`  
 
 ---
+
+
+---
+
+## 📱 关注微信公众号  
+![微信公众号二维码](docs/心飞为你飞.jpg)  
+🚀 项目地址：[https://gitee.com/itxinfei/gmall](https://gitee.com/itxinfei/gmall)  
+👥 QQ交流群：[661543188](https://qm.qq.com/cgi-bin/qm/qr?k=9yLlyD1dRBL97xmBKw43zRt0-6xg8ohb&jump_from=webapi)  
+📧 邮箱支持：[747011882@qq.com](http://mail.qq.com/cgi-bin/qm_share?t=qm_mailme&email=f0hLSE9OTkdHTT8ODlEcEBI)  
+
 
