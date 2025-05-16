@@ -1,18 +1,25 @@
 
+<div align="center">
 
+![Logo](docs/Logo.png)
 
-# 🛒 Gmall 电商平台  
+<h1 style="font-size: 36px;">🛒 Gmall 电商平台</h1>
 **一站式电商解决方案 | 支持商品管理、订单处理、支付集成、用户系统**  
+
 🚀 项目地址：[https://gitee.com/itxinfei/gmall](https://gitee.com/itxinfei/gmall)  
 👥 QQ交流群：[661543188](https://qm.qq.com/cgi-bin/qm/qr?k=9yLlyD1dRBL97xmBKw43zRt0-6xg8ohb&jump_from=webapi)  
 📧 邮箱支持：[747011882@qq.com](http://mail.qq.com/cgi-bin/qm_share?t=qm_mailme&email=f0hLSE9OTkdHTT8ODlEcEBI)  
 
-![JDK 1.8+](https://img.shields.io/badge/JDK-1.8%2B-brightgreen)  
-![Maven 3.3+](https://img.shields.io/badge/maven-3.3%2B-yellowgreen)  
-![License Apache](https://img.shields.io/badge/license-Apache-green)  
-![Build Passing](https://img.shields.io/badge/build-passing-brightgreen)  
+<p align="center">
+  <img alt="JDK" src="https://img.shields.io/badge/JDK-1.8%2B-brightgreen">
+  <img alt="Maven" src="https://img.shields.io/badge/maven-3.3%2B-yellowgreen">
+  <img alt="License" src="https://img.shields.io/badge/license-Apache-green">
+  <img alt="Build" src="https://img.shields.io/badge/build-passing-brightgreen">
+</p>
 
----
+</div>
+
+
 
 ## 📌 项目简介  
 **Gmall** 是一个面向中小型企业的开源电商平台，支持从商品上架、订单处理到支付结算的全流程管理。  
