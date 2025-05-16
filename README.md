@@ -1,8 +1,6 @@
 
 <div align="center">
 
-![Logo](docs/logo.jpg)
-
 <h1 style="font-size: 36px;">🛒 Gmall 电商平台</h1>
 **一站式电商解决方案 | 支持商品管理、订单处理、支付集成、用户系统**  
 
