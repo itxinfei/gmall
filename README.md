@@ -195,10 +195,3 @@ mvn clean install && java -jar gmall-gateway.jar
 
 ---
 
-## 📱 关注微信公众号  
-![微信公众号二维码](docs/心飞为你飞.jpg)  
-🚀 项目地址：[https://gitee.com/itxinfei/gmall](https://gitee.com/itxinfei/gmall)  
-👥 QQ交流群：[661543188](https://qm.qq.com/cgi-bin/qm/qr?k=9yLlyD1dRBL97xmBKw43zRt0-6xg8ohb&jump_from=webapi)  
-📧 邮箱支持：[747011882@qq.com](http://mail.qq.com/cgi-bin/qm_share?t=qm_mailme&email=f0hLSE9OTkdHTT8ODlEcEBI)  
-
-
